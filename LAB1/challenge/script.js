@@ -38,7 +38,7 @@ console.log(owngames)
 // 6. Print out the three siblings' names. "The three siblings are __, __, and ___."
 console.log(`The three siblings are ${sibling1}, ${sibling2} and ${sibling3}`)
 // 7. Use console.log() and a built-in method to count how many characters are in Ricardo's name.
-
+console.log(sibling3.lengt)
 // 8. Use console.log() and a built-in method to print out the string "RICARDO MONTOYA DE LA ROSA RAMIREZ"
 
 // 9. Use console.log() and a built-in method to print out the string "ricardo montoya de la rosa ramirez"
